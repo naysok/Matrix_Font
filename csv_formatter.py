@@ -3,7 +3,7 @@
 # ghPython              #
 #                       #
 # in  : RECOMUPUTE      #
-# out : FORMAT         #
+# out : FORMAT          #
 #                       #
 #########################
 
